@@ -18,4 +18,4 @@
 
 - ⚡ Fact: I am a Noobie.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lovedeep-ViRk&show_icons=true&title_color=fff&icon_color=79ff81&text_color=7f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Lovedeep-ViRk&show_icons=true&title_color=fff&icon_color=99ff71&text_color=7f9f9f&bg_color=151515)
