@@ -2,7 +2,7 @@
 
 [![telegram badge](https://img.shields.io/badge/Lovedeep-ViRk-30302f?style=flat&logo=telegram)](https://t.me/Lovedeep_ViRk)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lovedeep-ViRk&label=Views&color=blue&style=plastic" alt="xditya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lovedeep-ViRk&label=Views&color=blue&style=plastic" alt="Lovedeep_ViRk" /> </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Lovedeep-ViRk/)
 
@@ -31,4 +31,4 @@
 
 [![telegram](https://img.shields.io/badge/DEEPVIRK-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Lovedeep_ViRk)
 
-[![Github](https://img.shields.io/badge/STARKGANG-ffffff?style=for-the-badge&logo=github)](https://github.com/StarkGang
+[![Github](https://img.shields.io/badge/DEEPVIRK-30302f?style=for-the-badge&logo=github)](https://github.com/StarkGang
