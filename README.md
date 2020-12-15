@@ -31,4 +31,4 @@
 
 [![telegram](https://img.shields.io/badge/DEEPVIRK-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Lovedeep_ViRk)
 
-[![Github](https://img.shields.io/badge/DEEPVIRK-30302f?style=for-the-badge&logo=github)](https://github.com/StarkGang
+[![Github](https://img.shields.io/badge/DEEPVIRK-30302f?style=for-the-badge&logo=github)](https://github.com/Lovedeep-ViRk)
