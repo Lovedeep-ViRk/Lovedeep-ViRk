@@ -18,4 +18,17 @@
 
 - ⚡ Fact: I am a Noobie.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lovedeep-ViRk&show_icons=true&title_color=ffff&icon_color=99ff71&text_color=80C1FA&bg_color=151515)
+# MY STATUS.
+
+![DeepViRk github stats](https://github-readme-stats.vercel.app/api?username=Lovedeep-ViRk&show_icons=true&theme=midnight-purple)
+- ![Profile views](https://gpvc.arturio.dev/Lovedeep-ViRk)
+- [![GitHub followers](https://img.shields.io/github/followers/Lovedeep-ViRk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Starkgang?tab=followers)
+# MOST USED LANGUAGE
+
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovedeep-ViRk&theme=blue-green)
+
+# CONNECT ME.
+
+[![telegram](https://img.shields.io/badge/DEEPVIRK-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Lovedeep_ViRk)
+
+[![Github](https://img.shields.io/badge/STARKGANG-ffffff?style=for-the-badge&logo=github)](https://github.com/StarkGang
